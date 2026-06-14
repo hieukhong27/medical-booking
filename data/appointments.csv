@@ -1,1 +1,2 @@
 appointment_id,patient_name,doctor_id,date,time,email,reminder_sent
+1,Chử  Văn Đại,11,2026-06-14,08:00,daichu27112006@gmail.com,False
