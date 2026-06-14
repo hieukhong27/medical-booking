@@ -1,0 +1,25 @@
+doctor_id,name,specialty,clinic_id
+1,BS. Tran Thi Lan,Tai mui hong,1
+2,BS. Le Van Hung,Tai mui hong,2
+3,BS. Pham Thi Hoa,Tai mui hong,3
+4,BS. Nguyen Van Minh,Da lieu,1
+5,BS. Hoang Thi Mai,Da lieu,2
+6,BS. Vu Van Long,Da lieu,4
+7,BS. Do Thi Huong,Tim mach,1
+8,BS. Bui Van Nam,Tim mach,5
+9,BS. Ngo Thi Thu,Tim mach,7
+10,BS. Dang Van Khoi,Tieu hoa,1
+11,BS. Ly Thi Ngoc,Tieu hoa,3
+12,BS. Phan Van Duc,Tieu hoa,6
+13,BS. Trinh Thi Nga,Than kinh,1
+14,BS. Vo Van Tu,Than kinh,5
+15,BS. Cao Thi Yen,Mat,2
+16,BS. Dinh Van Phuc,Mat,4
+17,BS. Ta Thi Quynh,Rang ham mat,3
+18,BS. Luong Van Son,Rang ham mat,6
+19,BS. Mai Thi Linh,Xuong khop,1
+20,BS. Truong Van Hai,Xuong khop,5
+21,BS. Ho Thi Thanh,Noi khoa,1
+22,BS. Quach Van Tai,Noi khoa,2
+23,BS. Nguyen Thi Hong,Noi khoa,3
+24,BS. Le Van Bao,Noi khoa,4
